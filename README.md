@@ -1,3 +1,9 @@
+# Budget Planner with React and Vite
+
+------------
+
+
+## Overview
 This project is a budget planner built using React and Vite, designed to help users manage their finances without the need for a database. Users can input their budget, track expenses in various categories, and visualize their financial status. The application utilizes local storage to persistently store budget and expense data, ensuring that information is retained even after closing or refreshing the page.
 
 ## Features
@@ -69,4 +75,5 @@ Visualize the percentage of your budget spent through the circular progress bar.
 - React Swipeable List: A swipeable list component for React.
 
 ## ### Demo
-Explore the live demo of the project `[here](https://6568d7366c0f4911ef83224f--sensational-kitten-387b5a.netlify.app/ "here")`.
+Explore the live demo of the project `[here](https://6568d7366c0f4911ef83224f--sensational-kitten-387b5a.netlify.app/ "here")`. 
+
