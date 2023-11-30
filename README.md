@@ -75,5 +75,4 @@ Visualize the percentage of your budget spent through the circular progress bar.
 - React Swipeable List: A swipeable list component for React.
 
 ## ### Demo
-Explore the live demo of the project `[here](https://6568d7366c0f4911ef83224f--sensational-kitten-387b5a.netlify.app/ "here")`. 
-
+Explore the live demo of the project [here](https://6568d7366c0f4911ef83224f--sensational-kitten-387b5a.netlify.app/ "here")
